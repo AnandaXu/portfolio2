@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend&family=Montserrat&display=swap');
 
 :root {
-    --cor-primaria:  #86375d;
+    /* --cor-primaria:  #86375d; */
+    --cor-primaria:  #8700bc;
     --cor-secundaria:  #e2ccf9;
     --cor-tercearia: #be9f5c;
     --cor-hover: #80659b;
